@@ -7,7 +7,7 @@ The aim is to help financial institutions quickly identify high-risk customers a
 🗂 Dataset
 
 This project uses the Bank Customer Churn Prediction Dataset.
-🔗 Download it from Kaggle: [Bank Customer Churn Prediction Dataset](https://www.kaggle.com/code/kmalit/bank-customer-churn-prediction)
+🔗 Download it from Kaggle:https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction
 
 
 Run the project: 
